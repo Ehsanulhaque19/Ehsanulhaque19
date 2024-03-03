@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MD. Ehsanul haque
 - 👀 I’m interested in ...  web developing
-- 🌱 I’m currently learning ... front end web developing
+- 🌱 I’m currently learning ... front-end web developing
 - 💞️ I’m looking to collaborate on ... web developing
 - 📫 How to reach me ...
 - 😄 Pronouns: ... he/him
